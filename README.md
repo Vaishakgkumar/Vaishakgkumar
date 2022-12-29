@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vaishak G Kumar</h1>
 <h3 align="center">An Aspiring AI/ML Engineer</h3>
 
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/70128944/162050859-932a2be0-ae02-4a84-a02b-0d81c943c0e1.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishakgkumar&label=Profile%20views&color=874efe&style=flat" alt="vaishakgkumar" /> </p>
 
 - 🌱 I’m currently learning **ML Course by Andrew yang**
