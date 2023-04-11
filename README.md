@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishakgkumar&label=Profile%20views&color=874efe&style=flat" alt="vaishakgkumar" /> </p>
 
-- 🌱 I’m currently learning **ML Course by Andrew yang**
+- 🌱 I’m currently learning **Deep Learning Techniques**
 
-- 👨‍💻 All of my projects are available at [vaishakgkumar.dev](vaishakgkumar.dev)
+<!--- 👨‍💻 All of my projects are available at [vaishakgkumar.dev](vaishakgkumar.dev)-->
 
-- 💬 Ask me about **C, Python, Java And R**
+- 💬 Ask me about **Machine Learning & Artificial Intelligence**
 
 - 📫 How to reach me **vaishakgkumar@gmail.com**
 
